@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@react-navigation/material-bottom-tabs": "^6.2.20",
+    "axios": "^1.6.7",
+    "react-hook-form": "^7.50.1",
+    "react-native-paper": "^5.12.3",
+    "react-native-vector-icons": "^10.0.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
